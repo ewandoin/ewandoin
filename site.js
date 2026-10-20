@@ -57,7 +57,7 @@ const CV_HTML = `
     <p style="margin-top:44px"><button type="button" id="cv-open">CV →</button></p>
   </div>
   <div class="cvview" id="cvview" hidden>
-    <button type="button" class="back" id="cv-close">← back</button>
+    <button type="button" class="Back" id="cv-close">← back</button>
     ${CV_HTML}
   </div>`;
 
