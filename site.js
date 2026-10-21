@@ -43,7 +43,7 @@ const CV_HTML = `
 <h2>Languages</h2>
 <ul class="cols"><li>English (Native)</li><li>German (Basic)</li><li>Mandarin (Basic)</li></ul>
 
-<p style="margin-top:28px"><a href="cv.pdf" download="Ewan_MackayCruise_Resume.pdf">Download PDF</a>
+<p style="margin-top:28px"><a href="cv.pdf" download="Ewan_Resume.pdf" style="text-decoration:underline">Download PDF</a>
 `;
 // -----------------------------------------------------------------------------------
 
